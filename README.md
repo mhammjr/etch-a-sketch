@@ -1,1 +1,2 @@
 # etch-a-sketch
+This will be a new project from the Odin Project website.  The goal is to be able to take what I have learned while also being able to use other tools and resources to build this project.  From the description, it seems that it will require new skills that I have not yet learned.  I have started by studying grid and flexbox since the first step is to create a 16x16 grid and none of the lessons have covered that to this point.
